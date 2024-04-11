@@ -56,7 +56,3 @@ The dataset includes customer complaints about financial products, with columns 
 2. Leveraging BERT for text classification.
 3. Data preparation and model training.
 4. Making predictions on new data.
-
-## Open for Project Collaboration
-
-🤝 **Kindly connect on [LinkedIn](https://www.linkedin.com/in/vidhi-waghela-434663198/) and follow on [Kaggle](https://www.kaggle.com/vidhikishorwaghela). Let's collaborate and innovate together! 🌐✨
